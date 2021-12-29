@@ -7,6 +7,13 @@
   pointer-events: none;
 }
 
+.book{
+  width: 300px;
+  float: left;
+  margin-right: 10px;
+  border: 1px solid black;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
